@@ -1,0 +1,16 @@
+Pages:
+Include an "about" section, with seperate sections providing details on each "main member"
+This could be the home page
+FAQ: 
+Frequently Asked Questions about me and my channel
+Not entirely necessary since there's not a lot of questions coming in
+Merch:
+Section with basically nothing in it but the word "microtransaction"
+(I don't know how to make merch)
+BillWurtz:
+Model a "Questions" page similar to Bill Wurtz's questions page
+
+Pallete:
+1. 
+BANNER: 
+CONTENTS: 

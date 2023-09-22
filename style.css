@@ -1,4 +1,33 @@
-html {
-  height: 100%;
-  width: 100%;
+/*fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+html, body {
+  font-family:'Lato', sans-serif; margin-left: 0px; padding-left: 15px; padding-top: 20px; color: #ffffff; background-color: #2e2e2e
 }
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+ul {
+  list-style-type: none; margin-left: -2em; margin-top: 0em; border: 0px; padding: 0px; overflow: hidden; background-color: #333; position: fixed; top: 0; width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a { display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active { background-color: #04AA6D;
+}
+
+
